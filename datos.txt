@@ -1,3 +1,7 @@
 Nombre y Apellido: Magali Cristofori
 IP: 192.168.0.121
 Hora: 11:10
+
+Nombre y Apellido: Lucas Sosa
+IP: 191.83.230.61
+Hora: 16:00
